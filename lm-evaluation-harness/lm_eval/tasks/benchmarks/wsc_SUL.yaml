@@ -1,0 +1,15 @@
+group: wsc_instruct_seeds_SUL
+task:
+  - task: wsc_instruct_SUL
+    fewshot_config:
+      sampler: balanced
+      seed: 42
+  - task: wsc_instruct_SUL
+    fewshot_config:
+      sampler: balanced
+      seed: 43
+  - task: wsc_instruct_SUL
+    fewshot_config:
+      sampler: balanced
+      seed: 44
+

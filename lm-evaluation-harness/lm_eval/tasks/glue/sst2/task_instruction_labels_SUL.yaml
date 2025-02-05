@@ -1,0 +1,23 @@
+group: glue
+task: sst2_instruct_labels_SUL
+dataset_path: json
+dataset_name: sst2
+dataset_kwargs:
+  data_files:
+    train: sst2/train_dataset.json
+    validation: sst2/val_dataset.json
+output_type: multiple_choice
+training_split: train
+validation_split: validation
+description: "Classify the review according to its sentiment.\n\n"
+doc_to_text: "Review: {{sentence}}\n\nSentiment:"
+doc_to_target: label
+doc_to_choice: ["Bar", "Foo"]
+fewshot_split: train
+fewshot_config:
+  sampler: balanced
+  seed: 42
+metric_list:
+  - metric: acc
+metadata:
+  version: 1.0

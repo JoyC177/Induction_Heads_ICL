@@ -1,0 +1,162 @@
+[
+    {
+        "text": "Apple",
+        "label": 0
+    },
+    {
+        "text": "Banana",
+        "label": 0
+    },
+    {
+        "text": "Orange",
+        "label": 0
+    },
+    {
+        "text": "Pear",
+        "label": 0
+    },
+    {
+        "text": "Grape",
+        "label": 0
+    },
+    {
+        "text": "Cherry",
+        "label": 0
+    },
+    {
+        "text": "Strawberry",
+        "label": 0
+    },
+    {
+        "text": "Blueberry",
+        "label": 0
+    },
+    {
+        "text": "Raspberry",
+        "label": 0
+    },
+    {
+        "text": "Watermelon",
+        "label": 0
+    },
+    {
+        "text": "Pineapple",
+        "label": 0
+    },
+    {
+        "text": "Mango",
+        "label": 0
+    },
+    {
+        "text": "Peach",
+        "label": 0
+    },
+    {
+        "text": "Plum",
+        "label": 0
+    },
+    {
+        "text": "Kiwi",
+        "label": 0
+    },
+    {
+        "text": "Lemon",
+        "label": 0
+    },
+    {
+        "text": "Lime",
+        "label": 0
+    },
+    {
+        "text": "Melon",
+        "label": 0
+    },
+    {
+        "text": "Papaya",
+        "label": 0
+    },
+    {
+        "text": "Fig",
+        "label": 0
+    },
+    {
+        "text": "Dog",
+        "label": 1
+    },
+    {
+        "text": "Cat",
+        "label": 1
+    },
+    {
+        "text": "Horse",
+        "label": 1
+    },
+    {
+        "text": "Cow",
+        "label": 1
+    },
+    {
+        "text": "Sheep",
+        "label": 1
+    },
+    {
+        "text": "Pig",
+        "label": 1
+    },
+    {
+        "text": "Chicken",
+        "label": 1
+    },
+    {
+        "text": "Duck",
+        "label": 1
+    },
+    {
+        "text": "Rabbit",
+        "label": 1
+    },
+    {
+        "text": "Deer",
+        "label": 1
+    },
+    {
+        "text": "Elephant",
+        "label": 1
+    },
+    {
+        "text": "Tiger",
+        "label": 1
+    },
+    {
+        "text": "Lion",
+        "label": 1
+    },
+    {
+        "text": "Bear",
+        "label": 1
+    },
+    {
+        "text": "Wolf",
+        "label": 1
+    },
+    {
+        "text": "Fox",
+        "label": 1
+    },
+    {
+        "text": "Monkey",
+        "label": 1
+    },
+    {
+        "text": "Giraffe",
+        "label": 1
+    },
+    {
+        "text": "Zebra",
+        "label": 1
+    },
+    {
+        "text": "Kangaroo",
+        "label": 1
+    }
+]

@@ -1,0 +1,14 @@
+group: repetition_seeds
+task:
+  - task: repetition
+    fewshot_config:
+      sampler: balanced
+      seed: 42
+  - task: repetition
+    fewshot_config:
+      sampler: balanced
+      seed: 43
+  - task: repetition
+    fewshot_config:
+      sampler: balanced
+      seed: 44

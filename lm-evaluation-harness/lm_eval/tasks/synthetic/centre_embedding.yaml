@@ -1,0 +1,21 @@
+task: centre_embedding
+dataset_path: json
+dataset_name: binary
+dataset_kwargs:
+  data_files:
+    validation: synthetic/centre_embedding_dataset_500.json
+output_type: multiple_choice
+description: "Below is a list of various sequences. Your task is to classify each sequence. Use the examples provided to understand how to classify each sequence correctly.\n\n"
+doc_to_text: "{{sequence}}:"
+doc_to_target: label
+doc_to_choice: ['Foo', 'Bar']
+target_delimiter: ""
+validation_split: validation
+fewshot_split: validation
+fewshot_config:
+  sampler: balanced
+  seed: 42
+metric_list:
+  - metric: acc
+metadata:
+  version: 0.0

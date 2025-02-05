@@ -1,0 +1,2002 @@
+[
+    {
+        "sequence": "V H H H",
+        "label": "Foo"
+    },
+    {
+        "sequence": "P T Y C",
+        "label": "Bar"
+    },
+    {
+        "sequence": "U D D D",
+        "label": "Foo"
+    },
+    {
+        "sequence": "F S I B",
+        "label": "Bar"
+    },
+    {
+        "sequence": "Z O O O",
+        "label": "Foo"
+    },
+    {
+        "sequence": "U H D W",
+        "label": "Bar"
+    },
+    {
+        "sequence": "Q N S V",
+        "label": "Bar"
+    },
+    {
+        "sequence": "S X X X",
+        "label": "Foo"
+    },
+    {
+        "sequence": "O D D D",
+        "label": "Foo"
+    },
+    {
+        "sequence": "G S S S",
+        "label": "Foo"
+    },
+    {
+        "sequence": "X X X X",
+        "label": "Foo"
+    },
+    {
+        "sequence": "P D H M",
+        "label": "Bar"
+    },
+    {
+        "sequence": "Z W Q O",
+        "label": "Bar"
+    },
+    {
+        "sequence": "J H L F",
+        "label": "Bar"
+    },
+    {
+        "sequence": "H D O U",
+        "label": "Bar"
+    },
+    {
+        "sequence": "W U U U",
+        "label": "Foo"
+    },
+    {
+        "sequence": "D T N L",
+        "label": "Bar"
+    },
+    {
+        "sequence": "V D D D",
+        "label": "Foo"
+    },
+    {
+        "sequence": "T J D G",
+        "label": "Bar"
+    },
+    {
+        "sequence": "Z F N A",
+        "label": "Bar"
+    },
+    {
+        "sequence": "M V V V",
+        "label": "Foo"
+    },
+    {
+        "sequence": "U H I O",
+        "label": "Bar"
+    },
+    {
+        "sequence": "K A N P",
+        "label": "Bar"
+    },
+    {
+        "sequence": "O N U S",
+        "label": "Bar"
+    },
+    {
+        "sequence": "F O E T",
+        "label": "Bar"
+    },
+    {
+        "sequence": "R J J J",
+        "label": "Foo"
+    },
+    {
+        "sequence": "S P P P",
+        "label": "Foo"
+    },
+    {
+        "sequence": "A Z O J",
+        "label": "Bar"
+    },
+    {
+        "sequence": "R E E E",
+        "label": "Foo"
+    },
+    {
+        "sequence": "U L L L",
+        "label": "Foo"
+    },
+    {
+        "sequence": "Y F F F",
+        "label": "Foo"
+    },
+    {
+        "sequence": "T Q D M",
+        "label": "Bar"
+    },
+    {
+        "sequence": "Z R V X",
+        "label": "Bar"
+    },
+    {
+        "sequence": "F X P O",
+        "label": "Bar"
+    },
+    {
+        "sequence": "C N N N",
+        "label": "Foo"
+    },
+    {
+        "sequence": "X E H F",
+        "label": "Bar"
+    },
+    {
+        "sequence": "N F F F",
+        "label": "Foo"
+    },
+    {
+        "sequence": "A P K F",
+        "label": "Bar"
+    },
+    {
+        "sequence": "J N N N",
+        "label": "Foo"
+    },
+    {
+        "sequence": "X P J Y",
+        "label": "Bar"
+    },
+    {
+        "sequence": "C W J H",
+        "label": "Bar"
+    },
+    {
+        "sequence": "O Q Q Q",
+        "label": "Foo"
+    },
+    {
+        "sequence": "W X X X",
+        "label": "Foo"
+    },
+    {
+        "sequence": "X V G L",
+        "label": "Bar"
+    },
+    {
+        "sequence": "Y R N T",
+        "label": "Bar"
+    },
+    {
+        "sequence": "R A A A",
+        "label": "Foo"
+    },
+    {
+        "sequence": "D R Y N",
+        "label": "Bar"
+    },
+    {
+        "sequence": "V W W W",
+        "label": "Foo"
+    },
+    {
+        "sequence": "H U G T",
+        "label": "Bar"
+    },
+    {
+        "sequence": "Y V E U",
+        "label": "Bar"
+    },
+    {
+        "sequence": "E I B R",
+        "label": "Bar"
+    },
+    {
+        "sequence": "D N L U",
+        "label": "Bar"
+    },
+    {
+        "sequence": "I H H H",
+        "label": "Foo"
+    },
+    {
+        "sequence": "B D D D",
+        "label": "Foo"
+    },
+    {
+        "sequence": "X R R R",
+        "label": "Foo"
+    },
+    {
+        "sequence": "K I I I",
+        "label": "Foo"
+    },
+    {
+        "sequence": "J A B K",
+        "label": "Bar"
+    },
+    {
+        "sequence": "Z U S V",
+        "label": "Bar"
+    },
+    {
+        "sequence": "K G G G",
+        "label": "Foo"
+    },
+    {
+        "sequence": "K I D Y",
+        "label": "Bar"
+    },
+    {
+        "sequence": "C Y Y Y",
+        "label": "Foo"
+    },
+    {
+        "sequence": "F O O O",
+        "label": "Foo"
+    },
+    {
+        "sequence": "R C C C",
+        "label": "Foo"
+    },
+    {
+        "sequence": "T K K K",
+        "label": "Foo"
+    },
+    {
+        "sequence": "U N W I",
+        "label": "Bar"
+    },
+    {
+        "sequence": "O R R R",
+        "label": "Foo"
+    },
+    {
+        "sequence": "A S S S",
+        "label": "Foo"
+    },
+    {
+        "sequence": "O U I V",
+        "label": "Bar"
+    },
+    {
+        "sequence": "E L L L",
+        "label": "Foo"
+    },
+    {
+        "sequence": "D C C C",
+        "label": "Foo"
+    },
+    {
+        "sequence": "R Q L N",
+        "label": "Bar"
+    },
+    {
+        "sequence": "R O N B",
+        "label": "Bar"
+    },
+    {
+        "sequence": "X S S S",
+        "label": "Foo"
+    },
+    {
+        "sequence": "G V V V",
+        "label": "Foo"
+    },
+    {
+        "sequence": "L N E H",
+        "label": "Bar"
+    },
+    {
+        "sequence": "O L J Z",
+        "label": "Bar"
+    },
+    {
+        "sequence": "B T T T",
+        "label": "Foo"
+    },
+    {
+        "sequence": "Q H H H",
+        "label": "Foo"
+    },
+    {
+        "sequence": "E M G T",
+        "label": "Bar"
+    },
+    {
+        "sequence": "W A Y D",
+        "label": "Bar"
+    },
+    {
+        "sequence": "K Y Y Y",
+        "label": "Foo"
+    },
+    {
+        "sequence": "K T I A",
+        "label": "Bar"
+    },
+    {
+        "sequence": "E I I I",
+        "label": "Foo"
+    },
+    {
+        "sequence": "E H M W",
+        "label": "Bar"
+    },
+    {
+        "sequence": "G C S W",
+        "label": "Bar"
+    },
+    {
+        "sequence": "F X X X",
+        "label": "Foo"
+    },
+    {
+        "sequence": "E H P V",
+        "label": "Bar"
+    },
+    {
+        "sequence": "V I I I",
+        "label": "Foo"
+    },
+    {
+        "sequence": "L S S S",
+        "label": "Foo"
+    },
+    {
+        "sequence": "W I Y L",
+        "label": "Bar"
+    },
+    {
+        "sequence": "Q Q Q Q",
+        "label": "Foo"
+    },
+    {
+        "sequence": "Y J J J",
+        "label": "Foo"
+    },
+    {
+        "sequence": "T G G G",
+        "label": "Foo"
+    },
+    {
+        "sequence": "J R E G",
+        "label": "Bar"
+    },
+    {
+        "sequence": "E A B H",
+        "label": "Bar"
+    },
+    {
+        "sequence": "R Y W F",
+        "label": "Bar"
+    },
+    {
+        "sequence": "I V V V",
+        "label": "Foo"
+    },
+    {
+        "sequence": "Y B G I",
+        "label": "Bar"
+    },
+    {
+        "sequence": "H W P U",
+        "label": "Bar"
+    },
+    {
+        "sequence": "H S M Y",
+        "label": "Bar"
+    },
+    {
+        "sequence": "S A Y V",
+        "label": "Bar"
+    },
+    {
+        "sequence": "H G A T",
+        "label": "Bar"
+    },
+    {
+        "sequence": "M M M M",
+        "label": "Foo"
+    },
+    {
+        "sequence": "T O O O",
+        "label": "Foo"
+    },
+    {
+        "sequence": "H C C C",
+        "label": "Foo"
+    },
+    {
+        "sequence": "U I I I",
+        "label": "Foo"
+    },
+    {
+        "sequence": "B H H H",
+        "label": "Foo"
+    },
+    {
+        "sequence": "G R R R",
+        "label": "Foo"
+    },
+    {
+        "sequence": "T N N N",
+        "label": "Foo"
+    },
+    {
+        "sequence": "V Z M X",
+        "label": "Bar"
+    },
+    {
+        "sequence": "F R C A",
+        "label": "Bar"
+    },
+    {
+        "sequence": "R B T C",
+        "label": "Bar"
+    },
+    {
+        "sequence": "G U U U",
+        "label": "Foo"
+    },
+    {
+        "sequence": "R D D D",
+        "label": "Foo"
+    },
+    {
+        "sequence": "U Q Q Q",
+        "label": "Foo"
+    },
+    {
+        "sequence": "W J J J",
+        "label": "Foo"
+    },
+    {
+        "sequence": "C G G G",
+        "label": "Foo"
+    },
+    {
+        "sequence": "O V G Q",
+        "label": "Bar"
+    },
+    {
+        "sequence": "Y G U I",
+        "label": "Bar"
+    },
+    {
+        "sequence": "Z R R R",
+        "label": "Foo"
+    },
+    {
+        "sequence": "D C C C",
+        "label": "Foo"
+    },
+    {
+        "sequence": "N E E E",
+        "label": "Foo"
+    },
+    {
+        "sequence": "N O O O",
+        "label": "Foo"
+    },
+    {
+        "sequence": "D O W J",
+        "label": "Bar"
+    },
+    {
+        "sequence": "A C J H",
+        "label": "Bar"
+    },
+    {
+        "sequence": "P I I I",
+        "label": "Foo"
+    },
+    {
+        "sequence": "J T T T",
+        "label": "Foo"
+    },
+    {
+        "sequence": "I C C C",
+        "label": "Foo"
+    },
+    {
+        "sequence": "S V M W",
+        "label": "Bar"
+    },
+    {
+        "sequence": "A C C C",
+        "label": "Foo"
+    },
+    {
+        "sequence": "O R P L",
+        "label": "Bar"
+    },
+    {
+        "sequence": "G W M P",
+        "label": "Bar"
+    },
+    {
+        "sequence": "W K K K",
+        "label": "Foo"
+    },
+    {
+        "sequence": "H G G G",
+        "label": "Foo"
+    },
+    {
+        "sequence": "I R A Q",
+        "label": "Bar"
+    },
+    {
+        "sequence": "Y P D A",
+        "label": "Bar"
+    },
+    {
+        "sequence": "H Y O S",
+        "label": "Bar"
+    },
+    {
+        "sequence": "V X X X",
+        "label": "Foo"
+    },
+    {
+        "sequence": "T B N X",
+        "label": "Bar"
+    },
+    {
+        "sequence": "D V V V",
+        "label": "Foo"
+    },
+    {
+        "sequence": "I B B B",
+        "label": "Foo"
+    },
+    {
+        "sequence": "J K X N",
+        "label": "Bar"
+    },
+    {
+        "sequence": "M H E U",
+        "label": "Bar"
+    },
+    {
+        "sequence": "S Q Q Q",
+        "label": "Foo"
+    },
+    {
+        "sequence": "H U V J",
+        "label": "Bar"
+    },
+    {
+        "sequence": "L N N N",
+        "label": "Foo"
+    },
+    {
+        "sequence": "P Z X F",
+        "label": "Bar"
+    },
+    {
+        "sequence": "T I I I",
+        "label": "Foo"
+    },
+    {
+        "sequence": "J A V M",
+        "label": "Bar"
+    },
+    {
+        "sequence": "H C I O",
+        "label": "Bar"
+    },
+    {
+        "sequence": "F X K Z",
+        "label": "Bar"
+    },
+    {
+        "sequence": "G X P I",
+        "label": "Bar"
+    },
+    {
+        "sequence": "Y N H F",
+        "label": "Bar"
+    },
+    {
+        "sequence": "U N N N",
+        "label": "Foo"
+    },
+    {
+        "sequence": "V X X X",
+        "label": "Foo"
+    },
+    {
+        "sequence": "O W E N",
+        "label": "Bar"
+    },
+    {
+        "sequence": "Q W I N",
+        "label": "Bar"
+    },
+    {
+        "sequence": "N P R Y",
+        "label": "Bar"
+    },
+    {
+        "sequence": "I E E E",
+        "label": "Foo"
+    },
+    {
+        "sequence": "Q A A A",
+        "label": "Foo"
+    },
+    {
+        "sequence": "D D D D",
+        "label": "Foo"
+    },
+    {
+        "sequence": "H S S S",
+        "label": "Foo"
+    },
+    {
+        "sequence": "F T S J",
+        "label": "Bar"
+    },
+    {
+        "sequence": "T C C C",
+        "label": "Foo"
+    },
+    {
+        "sequence": "D Y U W",
+        "label": "Bar"
+    },
+    {
+        "sequence": "I Q Q Q",
+        "label": "Foo"
+    },
+    {
+        "sequence": "X D D D",
+        "label": "Foo"
+    },
+    {
+        "sequence": "U T Z H",
+        "label": "Bar"
+    },
+    {
+        "sequence": "W M I Q",
+        "label": "Bar"
+    },
+    {
+        "sequence": "S H H H",
+        "label": "Foo"
+    },
+    {
+        "sequence": "A Y Y Y",
+        "label": "Foo"
+    },
+    {
+        "sequence": "D J J J",
+        "label": "Foo"
+    },
+    {
+        "sequence": "F M M M",
+        "label": "Foo"
+    },
+    {
+        "sequence": "E P W J",
+        "label": "Bar"
+    },
+    {
+        "sequence": "P D C M",
+        "label": "Bar"
+    },
+    {
+        "sequence": "V S L P",
+        "label": "Bar"
+    },
+    {
+        "sequence": "Y I L U",
+        "label": "Bar"
+    },
+    {
+        "sequence": "S N U P",
+        "label": "Bar"
+    },
+    {
+        "sequence": "K Z Q I",
+        "label": "Bar"
+    },
+    {
+        "sequence": "L G G G",
+        "label": "Foo"
+    },
+    {
+        "sequence": "J O O O",
+        "label": "Foo"
+    },
+    {
+        "sequence": "H H H H",
+        "label": "Foo"
+    },
+    {
+        "sequence": "L C Q U",
+        "label": "Bar"
+    },
+    {
+        "sequence": "J H Z G",
+        "label": "Bar"
+    },
+    {
+        "sequence": "F X Q U",
+        "label": "Bar"
+    },
+    {
+        "sequence": "S J C H",
+        "label": "Bar"
+    },
+    {
+        "sequence": "U O O O",
+        "label": "Foo"
+    },
+    {
+        "sequence": "V H I Z",
+        "label": "Bar"
+    },
+    {
+        "sequence": "R H H H",
+        "label": "Foo"
+    },
+    {
+        "sequence": "E U U U",
+        "label": "Foo"
+    },
+    {
+        "sequence": "M I I I",
+        "label": "Foo"
+    },
+    {
+        "sequence": "T Z H Y",
+        "label": "Bar"
+    },
+    {
+        "sequence": "M K I C",
+        "label": "Bar"
+    },
+    {
+        "sequence": "B M M M",
+        "label": "Foo"
+    },
+    {
+        "sequence": "Y F F F",
+        "label": "Foo"
+    },
+    {
+        "sequence": "S J P O",
+        "label": "Bar"
+    },
+    {
+        "sequence": "T A A A",
+        "label": "Foo"
+    },
+    {
+        "sequence": "X S Y Q",
+        "label": "Bar"
+    },
+    {
+        "sequence": "F Z J T",
+        "label": "Bar"
+    },
+    {
+        "sequence": "J X K Z",
+        "label": "Bar"
+    },
+    {
+        "sequence": "P J B H",
+        "label": "Bar"
+    },
+    {
+        "sequence": "V U U U",
+        "label": "Foo"
+    },
+    {
+        "sequence": "K V D F",
+        "label": "Bar"
+    },
+    {
+        "sequence": "X J Q V",
+        "label": "Bar"
+    },
+    {
+        "sequence": "M L L L",
+        "label": "Foo"
+    },
+    {
+        "sequence": "Z B B B",
+        "label": "Foo"
+    },
+    {
+        "sequence": "A L J Y",
+        "label": "Bar"
+    },
+    {
+        "sequence": "I Y Y Y",
+        "label": "Foo"
+    },
+    {
+        "sequence": "X O O O",
+        "label": "Foo"
+    },
+    {
+        "sequence": "S H H H",
+        "label": "Foo"
+    },
+    {
+        "sequence": "D D D D",
+        "label": "Foo"
+    },
+    {
+        "sequence": "W P O Z",
+        "label": "Bar"
+    },
+    {
+        "sequence": "P H O R",
+        "label": "Bar"
+    },
+    {
+        "sequence": "N O W T",
+        "label": "Bar"
+    },
+    {
+        "sequence": "Y P O N",
+        "label": "Bar"
+    },
+    {
+        "sequence": "H X C N",
+        "label": "Bar"
+    },
+    {
+        "sequence": "I E C B",
+        "label": "Bar"
+    },
+    {
+        "sequence": "P C S U",
+        "label": "Bar"
+    },
+    {
+        "sequence": "P G G G",
+        "label": "Foo"
+    },
+    {
+        "sequence": "P W Z M",
+        "label": "Bar"
+    },
+    {
+        "sequence": "M U C K",
+        "label": "Bar"
+    },
+    {
+        "sequence": "W N N N",
+        "label": "Foo"
+    },
+    {
+        "sequence": "A M M M",
+        "label": "Foo"
+    },
+    {
+        "sequence": "Z H T L",
+        "label": "Bar"
+    },
+    {
+        "sequence": "B P H G",
+        "label": "Bar"
+    },
+    {
+        "sequence": "M D D D",
+        "label": "Foo"
+    },
+    {
+        "sequence": "Y E E E",
+        "label": "Foo"
+    },
+    {
+        "sequence": "C H H H",
+        "label": "Foo"
+    },
+    {
+        "sequence": "Q M V R",
+        "label": "Bar"
+    },
+    {
+        "sequence": "X R R R",
+        "label": "Foo"
+    },
+    {
+        "sequence": "K I I I",
+        "label": "Foo"
+    },
+    {
+        "sequence": "U D D D",
+        "label": "Foo"
+    },
+    {
+        "sequence": "N G G G",
+        "label": "Foo"
+    },
+    {
+        "sequence": "X E N U",
+        "label": "Bar"
+    },
+    {
+        "sequence": "Q I I I",
+        "label": "Foo"
+    },
+    {
+        "sequence": "X K K K",
+        "label": "Foo"
+    },
+    {
+        "sequence": "I K T W",
+        "label": "Bar"
+    },
+    {
+        "sequence": "I Q Q Q",
+        "label": "Foo"
+    },
+    {
+        "sequence": "D M M M",
+        "label": "Foo"
+    },
+    {
+        "sequence": "R Y Y Y",
+        "label": "Foo"
+    },
+    {
+        "sequence": "N B G M",
+        "label": "Bar"
+    },
+    {
+        "sequence": "Z J J J",
+        "label": "Foo"
+    },
+    {
+        "sequence": "Q D D D",
+        "label": "Foo"
+    },
+    {
+        "sequence": "W N A Q",
+        "label": "Bar"
+    },
+    {
+        "sequence": "I H D X",
+        "label": "Bar"
+    },
+    {
+        "sequence": "Y O T X",
+        "label": "Bar"
+    },
+    {
+        "sequence": "D O F W",
+        "label": "Bar"
+    },
+    {
+        "sequence": "J A W R",
+        "label": "Bar"
+    },
+    {
+        "sequence": "O Z Z Z",
+        "label": "Foo"
+    },
+    {
+        "sequence": "W F J R",
+        "label": "Bar"
+    },
+    {
+        "sequence": "C B B B",
+        "label": "Foo"
+    },
+    {
+        "sequence": "I Z Z Z",
+        "label": "Foo"
+    },
+    {
+        "sequence": "R Y Y Y",
+        "label": "Foo"
+    },
+    {
+        "sequence": "V U T K",
+        "label": "Bar"
+    },
+    {
+        "sequence": "P Z Z Z",
+        "label": "Foo"
+    },
+    {
+        "sequence": "H E E E",
+        "label": "Foo"
+    },
+    {
+        "sequence": "G C H X",
+        "label": "Bar"
+    },
+    {
+        "sequence": "H E E E",
+        "label": "Foo"
+    },
+    {
+        "sequence": "V R F C",
+        "label": "Bar"
+    },
+    {
+        "sequence": "A R N C",
+        "label": "Bar"
+    },
+    {
+        "sequence": "O E E E",
+        "label": "Foo"
+    },
+    {
+        "sequence": "P G G G",
+        "label": "Foo"
+    },
+    {
+        "sequence": "O A A A",
+        "label": "Foo"
+    },
+    {
+        "sequence": "W R R R",
+        "label": "Foo"
+    },
+    {
+        "sequence": "K C C C",
+        "label": "Foo"
+    },
+    {
+        "sequence": "K R Y M",
+        "label": "Bar"
+    },
+    {
+        "sequence": "T Z Z Z",
+        "label": "Foo"
+    },
+    {
+        "sequence": "V P P P",
+        "label": "Foo"
+    },
+    {
+        "sequence": "S P P P",
+        "label": "Foo"
+    },
+    {
+        "sequence": "X R Z T",
+        "label": "Bar"
+    },
+    {
+        "sequence": "M Q A V",
+        "label": "Bar"
+    },
+    {
+        "sequence": "P E E E",
+        "label": "Foo"
+    },
+    {
+        "sequence": "E P B Q",
+        "label": "Bar"
+    },
+    {
+        "sequence": "E E E E",
+        "label": "Foo"
+    },
+    {
+        "sequence": "R B B B",
+        "label": "Foo"
+    },
+    {
+        "sequence": "S V P E",
+        "label": "Bar"
+    },
+    {
+        "sequence": "C H V S",
+        "label": "Bar"
+    },
+    {
+        "sequence": "Z W D M",
+        "label": "Bar"
+    },
+    {
+        "sequence": "U W W W",
+        "label": "Foo"
+    },
+    {
+        "sequence": "G J J J",
+        "label": "Foo"
+    },
+    {
+        "sequence": "N F F F",
+        "label": "Foo"
+    },
+    {
+        "sequence": "V N N N",
+        "label": "Foo"
+    },
+    {
+        "sequence": "W O I J",
+        "label": "Bar"
+    },
+    {
+        "sequence": "J F F F",
+        "label": "Foo"
+    },
+    {
+        "sequence": "G B B B",
+        "label": "Foo"
+    },
+    {
+        "sequence": "S D D D",
+        "label": "Foo"
+    },
+    {
+        "sequence": "U O I F",
+        "label": "Bar"
+    },
+    {
+        "sequence": "B T X D",
+        "label": "Bar"
+    },
+    {
+        "sequence": "Z G N D",
+        "label": "Bar"
+    },
+    {
+        "sequence": "I A S V",
+        "label": "Bar"
+    },
+    {
+        "sequence": "R D D D",
+        "label": "Foo"
+    },
+    {
+        "sequence": "S T U K",
+        "label": "Bar"
+    },
+    {
+        "sequence": "V B E Z",
+        "label": "Bar"
+    },
+    {
+        "sequence": "Z O B S",
+        "label": "Bar"
+    },
+    {
+        "sequence": "U W Y P",
+        "label": "Bar"
+    },
+    {
+        "sequence": "A V V V",
+        "label": "Foo"
+    },
+    {
+        "sequence": "U C C C",
+        "label": "Foo"
+    },
+    {
+        "sequence": "F L L L",
+        "label": "Foo"
+    },
+    {
+        "sequence": "I S B Y",
+        "label": "Bar"
+    },
+    {
+        "sequence": "L S S S",
+        "label": "Foo"
+    },
+    {
+        "sequence": "W N N N",
+        "label": "Foo"
+    },
+    {
+        "sequence": "F Z Z Z",
+        "label": "Foo"
+    },
+    {
+        "sequence": "T C C C",
+        "label": "Foo"
+    },
+    {
+        "sequence": "R H H H",
+        "label": "Foo"
+    },
+    {
+        "sequence": "I Y Q P",
+        "label": "Bar"
+    },
+    {
+        "sequence": "D O C E",
+        "label": "Bar"
+    },
+    {
+        "sequence": "I O O O",
+        "label": "Foo"
+    },
+    {
+        "sequence": "T U U U",
+        "label": "Foo"
+    },
+    {
+        "sequence": "A J X S",
+        "label": "Bar"
+    },
+    {
+        "sequence": "M E E E",
+        "label": "Foo"
+    },
+    {
+        "sequence": "R A M S",
+        "label": "Bar"
+    },
+    {
+        "sequence": "I Z Z Z",
+        "label": "Foo"
+    },
+    {
+        "sequence": "C R R R",
+        "label": "Foo"
+    },
+    {
+        "sequence": "R F F F",
+        "label": "Foo"
+    },
+    {
+        "sequence": "M T V H",
+        "label": "Bar"
+    },
+    {
+        "sequence": "P A M K",
+        "label": "Bar"
+    },
+    {
+        "sequence": "V C F H",
+        "label": "Bar"
+    },
+    {
+        "sequence": "M R A J",
+        "label": "Bar"
+    },
+    {
+        "sequence": "M W H J",
+        "label": "Bar"
+    },
+    {
+        "sequence": "G Q L T",
+        "label": "Bar"
+    },
+    {
+        "sequence": "U Q Q Q",
+        "label": "Foo"
+    },
+    {
+        "sequence": "I K R C",
+        "label": "Bar"
+    },
+    {
+        "sequence": "Z H I F",
+        "label": "Bar"
+    },
+    {
+        "sequence": "Y F P Q",
+        "label": "Bar"
+    },
+    {
+        "sequence": "X B B B",
+        "label": "Foo"
+    },
+    {
+        "sequence": "S G I B",
+        "label": "Bar"
+    },
+    {
+        "sequence": "Q M O J",
+        "label": "Bar"
+    },
+    {
+        "sequence": "R L Q I",
+        "label": "Bar"
+    },
+    {
+        "sequence": "C Y Y Y",
+        "label": "Foo"
+    },
+    {
+        "sequence": "N V M X",
+        "label": "Bar"
+    },
+    {
+        "sequence": "F I P Z",
+        "label": "Bar"
+    },
+    {
+        "sequence": "S V A C",
+        "label": "Bar"
+    },
+    {
+        "sequence": "H P I N",
+        "label": "Bar"
+    },
+    {
+        "sequence": "R E E E",
+        "label": "Foo"
+    },
+    {
+        "sequence": "X R K L",
+        "label": "Bar"
+    },
+    {
+        "sequence": "U T T T",
+        "label": "Foo"
+    },
+    {
+        "sequence": "J W O C",
+        "label": "Bar"
+    },
+    {
+        "sequence": "E W G C",
+        "label": "Bar"
+    },
+    {
+        "sequence": "B U U U",
+        "label": "Foo"
+    },
+    {
+        "sequence": "I O O O",
+        "label": "Foo"
+    },
+    {
+        "sequence": "V H H H",
+        "label": "Foo"
+    },
+    {
+        "sequence": "R E J O",
+        "label": "Bar"
+    },
+    {
+        "sequence": "B L G V",
+        "label": "Bar"
+    },
+    {
+        "sequence": "I K T W",
+        "label": "Bar"
+    },
+    {
+        "sequence": "W J J J",
+        "label": "Foo"
+    },
+    {
+        "sequence": "V U U U",
+        "label": "Foo"
+    },
+    {
+        "sequence": "W E E E",
+        "label": "Foo"
+    },
+    {
+        "sequence": "K N W P",
+        "label": "Bar"
+    },
+    {
+        "sequence": "N H H H",
+        "label": "Foo"
+    },
+    {
+        "sequence": "I C P A",
+        "label": "Bar"
+    },
+    {
+        "sequence": "B C C C",
+        "label": "Foo"
+    },
+    {
+        "sequence": "S L J W",
+        "label": "Bar"
+    },
+    {
+        "sequence": "K A D I",
+        "label": "Bar"
+    },
+    {
+        "sequence": "F T X W",
+        "label": "Bar"
+    },
+    {
+        "sequence": "E G G G",
+        "label": "Foo"
+    },
+    {
+        "sequence": "Y S W A",
+        "label": "Bar"
+    },
+    {
+        "sequence": "O J G M",
+        "label": "Bar"
+    },
+    {
+        "sequence": "N Z V X",
+        "label": "Bar"
+    },
+    {
+        "sequence": "V U U U",
+        "label": "Foo"
+    },
+    {
+        "sequence": "D U B J",
+        "label": "Bar"
+    },
+    {
+        "sequence": "Q N R O",
+        "label": "Bar"
+    },
+    {
+        "sequence": "H A V G",
+        "label": "Bar"
+    },
+    {
+        "sequence": "Q X E C",
+        "label": "Bar"
+    },
+    {
+        "sequence": "G W W W",
+        "label": "Foo"
+    },
+    {
+        "sequence": "R A A A",
+        "label": "Foo"
+    },
+    {
+        "sequence": "O L S J",
+        "label": "Bar"
+    },
+    {
+        "sequence": "B Z Z Z",
+        "label": "Foo"
+    },
+    {
+        "sequence": "X Z K N",
+        "label": "Bar"
+    },
+    {
+        "sequence": "H L L L",
+        "label": "Foo"
+    },
+    {
+        "sequence": "X S J O",
+        "label": "Bar"
+    },
+    {
+        "sequence": "L L L L",
+        "label": "Foo"
+    },
+    {
+        "sequence": "C B B B",
+        "label": "Foo"
+    },
+    {
+        "sequence": "Y H V X",
+        "label": "Bar"
+    },
+    {
+        "sequence": "B A A A",
+        "label": "Foo"
+    },
+    {
+        "sequence": "R A A A",
+        "label": "Foo"
+    },
+    {
+        "sequence": "Q R T K",
+        "label": "Bar"
+    },
+    {
+        "sequence": "W G G G",
+        "label": "Foo"
+    },
+    {
+        "sequence": "J V M Y",
+        "label": "Bar"
+    },
+    {
+        "sequence": "S N N N",
+        "label": "Foo"
+    },
+    {
+        "sequence": "E H H H",
+        "label": "Foo"
+    },
+    {
+        "sequence": "W U U U",
+        "label": "Foo"
+    },
+    {
+        "sequence": "D Y F J",
+        "label": "Bar"
+    },
+    {
+        "sequence": "Y Y Y Y",
+        "label": "Foo"
+    },
+    {
+        "sequence": "U K K K",
+        "label": "Foo"
+    },
+    {
+        "sequence": "C K K K",
+        "label": "Foo"
+    },
+    {
+        "sequence": "N B K X",
+        "label": "Bar"
+    },
+    {
+        "sequence": "E I I I",
+        "label": "Foo"
+    },
+    {
+        "sequence": "Q P P P",
+        "label": "Foo"
+    },
+    {
+        "sequence": "C P L N",
+        "label": "Bar"
+    },
+    {
+        "sequence": "A X X X",
+        "label": "Foo"
+    },
+    {
+        "sequence": "R P O C",
+        "label": "Bar"
+    },
+    {
+        "sequence": "C Y Y Y",
+        "label": "Foo"
+    },
+    {
+        "sequence": "N P P P",
+        "label": "Foo"
+    },
+    {
+        "sequence": "I V Y X",
+        "label": "Bar"
+    },
+    {
+        "sequence": "C C C C",
+        "label": "Foo"
+    },
+    {
+        "sequence": "O K G W",
+        "label": "Bar"
+    },
+    {
+        "sequence": "D L L L",
+        "label": "Foo"
+    },
+    {
+        "sequence": "J G N Z",
+        "label": "Bar"
+    },
+    {
+        "sequence": "S N J T",
+        "label": "Bar"
+    },
+    {
+        "sequence": "G W W W",
+        "label": "Foo"
+    },
+    {
+        "sequence": "P A A A",
+        "label": "Foo"
+    },
+    {
+        "sequence": "C Y H V",
+        "label": "Bar"
+    },
+    {
+        "sequence": "P M M M",
+        "label": "Foo"
+    },
+    {
+        "sequence": "U L L L",
+        "label": "Foo"
+    },
+    {
+        "sequence": "M B B B",
+        "label": "Foo"
+    },
+    {
+        "sequence": "R H U E",
+        "label": "Bar"
+    },
+    {
+        "sequence": "M D D D",
+        "label": "Foo"
+    },
+    {
+        "sequence": "H Q Q Q",
+        "label": "Foo"
+    },
+    {
+        "sequence": "I Y H U",
+        "label": "Bar"
+    },
+    {
+        "sequence": "K G O Y",
+        "label": "Bar"
+    },
+    {
+        "sequence": "M I Y N",
+        "label": "Bar"
+    },
+    {
+        "sequence": "H B B B",
+        "label": "Foo"
+    },
+    {
+        "sequence": "D S A J",
+        "label": "Bar"
+    },
+    {
+        "sequence": "W V V V",
+        "label": "Foo"
+    },
+    {
+        "sequence": "L X E C",
+        "label": "Bar"
+    },
+    {
+        "sequence": "W K K K",
+        "label": "Foo"
+    },
+    {
+        "sequence": "U J J J",
+        "label": "Foo"
+    },
+    {
+        "sequence": "X S S S",
+        "label": "Foo"
+    },
+    {
+        "sequence": "H I I I",
+        "label": "Foo"
+    },
+    {
+        "sequence": "M C C C",
+        "label": "Foo"
+    },
+    {
+        "sequence": "R B B B",
+        "label": "Foo"
+    },
+    {
+        "sequence": "X R B L",
+        "label": "Bar"
+    },
+    {
+        "sequence": "N K M W",
+        "label": "Bar"
+    },
+    {
+        "sequence": "L C Z M",
+        "label": "Bar"
+    },
+    {
+        "sequence": "I T Z R",
+        "label": "Bar"
+    },
+    {
+        "sequence": "I Y Z N",
+        "label": "Bar"
+    },
+    {
+        "sequence": "B B B B",
+        "label": "Foo"
+    },
+    {
+        "sequence": "V R M K",
+        "label": "Bar"
+    },
+    {
+        "sequence": "W P D A",
+        "label": "Bar"
+    },
+    {
+        "sequence": "E I I I",
+        "label": "Foo"
+    },
+    {
+        "sequence": "X P P P",
+        "label": "Foo"
+    },
+    {
+        "sequence": "S K D O",
+        "label": "Bar"
+    },
+    {
+        "sequence": "X S I K",
+        "label": "Bar"
+    },
+    {
+        "sequence": "O S S S",
+        "label": "Foo"
+    },
+    {
+        "sequence": "H Z Z Z",
+        "label": "Foo"
+    },
+    {
+        "sequence": "C A A A",
+        "label": "Foo"
+    },
+    {
+        "sequence": "Y S M P",
+        "label": "Bar"
+    },
+    {
+        "sequence": "B J L Z",
+        "label": "Bar"
+    },
+    {
+        "sequence": "Y P U O",
+        "label": "Bar"
+    },
+    {
+        "sequence": "X H H H",
+        "label": "Foo"
+    },
+    {
+        "sequence": "D S G O",
+        "label": "Bar"
+    },
+    {
+        "sequence": "G Q Q Q",
+        "label": "Foo"
+    },
+    {
+        "sequence": "V N N N",
+        "label": "Foo"
+    },
+    {
+        "sequence": "G K D X",
+        "label": "Bar"
+    },
+    {
+        "sequence": "M V Z U",
+        "label": "Bar"
+    },
+    {
+        "sequence": "O E Z V",
+        "label": "Bar"
+    },
+    {
+        "sequence": "L C C C",
+        "label": "Foo"
+    },
+    {
+        "sequence": "T K V D",
+        "label": "Bar"
+    },
+    {
+        "sequence": "T V M K",
+        "label": "Bar"
+    },
+    {
+        "sequence": "J W E U",
+        "label": "Bar"
+    },
+    {
+        "sequence": "Y J V T",
+        "label": "Bar"
+    },
+    {
+        "sequence": "Q C C C",
+        "label": "Foo"
+    },
+    {
+        "sequence": "A I R D",
+        "label": "Bar"
+    },
+    {
+        "sequence": "V S S S",
+        "label": "Foo"
+    },
+    {
+        "sequence": "R I I I",
+        "label": "Foo"
+    },
+    {
+        "sequence": "N C V K",
+        "label": "Bar"
+    },
+    {
+        "sequence": "E C P Z",
+        "label": "Bar"
+    },
+    {
+        "sequence": "Y X X X",
+        "label": "Foo"
+    },
+    {
+        "sequence": "F R R R",
+        "label": "Foo"
+    },
+    {
+        "sequence": "P S E H",
+        "label": "Bar"
+    },
+    {
+        "sequence": "H V D L",
+        "label": "Bar"
+    },
+    {
+        "sequence": "Z D D D",
+        "label": "Foo"
+    },
+    {
+        "sequence": "Z F F F",
+        "label": "Foo"
+    },
+    {
+        "sequence": "Y K K K",
+        "label": "Foo"
+    },
+    {
+        "sequence": "N S S S",
+        "label": "Foo"
+    },
+    {
+        "sequence": "K M M M",
+        "label": "Foo"
+    },
+    {
+        "sequence": "O T T T",
+        "label": "Foo"
+    },
+    {
+        "sequence": "U B Y A",
+        "label": "Bar"
+    },
+    {
+        "sequence": "X K K K",
+        "label": "Foo"
+    },
+    {
+        "sequence": "P G L Z",
+        "label": "Bar"
+    },
+    {
+        "sequence": "Z B J L",
+        "label": "Bar"
+    },
+    {
+        "sequence": "A K K K",
+        "label": "Foo"
+    },
+    {
+        "sequence": "F G E Z",
+        "label": "Bar"
+    },
+    {
+        "sequence": "U N E O",
+        "label": "Bar"
+    },
+    {
+        "sequence": "R J J J",
+        "label": "Foo"
+    },
+    {
+        "sequence": "H U C Y",
+        "label": "Bar"
+    },
+    {
+        "sequence": "R Y Y Y",
+        "label": "Foo"
+    },
+    {
+        "sequence": "N K R O",
+        "label": "Bar"
+    },
+    {
+        "sequence": "Z F C T",
+        "label": "Bar"
+    },
+    {
+        "sequence": "H F F F",
+        "label": "Foo"
+    },
+    {
+        "sequence": "V C J Q",
+        "label": "Bar"
+    },
+    {
+        "sequence": "D Q O A",
+        "label": "Bar"
+    },
+    {
+        "sequence": "M N R X",
+        "label": "Bar"
+    },
+    {
+        "sequence": "R G G G",
+        "label": "Foo"
+    },
+    {
+        "sequence": "O R R R",
+        "label": "Foo"
+    },
+    {
+        "sequence": "G R R R",
+        "label": "Foo"
+    },
+    {
+        "sequence": "L R N V",
+        "label": "Bar"
+    },
+    {
+        "sequence": "V K K K",
+        "label": "Foo"
+    },
+    {
+        "sequence": "F C C C",
+        "label": "Foo"
+    },
+    {
+        "sequence": "Y X B T",
+        "label": "Bar"
+    },
+    {
+        "sequence": "F B I M",
+        "label": "Bar"
+    },
+    {
+        "sequence": "R B O C",
+        "label": "Bar"
+    },
+    {
+        "sequence": "S T T T",
+        "label": "Foo"
+    },
+    {
+        "sequence": "B R H D",
+        "label": "Bar"
+    },
+    {
+        "sequence": "B H H H",
+        "label": "Foo"
+    },
+    {
+        "sequence": "V M Z R",
+        "label": "Bar"
+    },
+    {
+        "sequence": "K F B I",
+        "label": "Bar"
+    },
+    {
+        "sequence": "Z D S B",
+        "label": "Bar"
+    },
+    {
+        "sequence": "F B B B",
+        "label": "Foo"
+    },
+    {
+        "sequence": "I Q Q Q",
+        "label": "Foo"
+    }
+]

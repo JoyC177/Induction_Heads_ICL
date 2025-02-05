@@ -1,0 +1,21 @@
+task: vegetable_vehicle_body-part_instrument
+dataset_path: json
+dataset_name: binary
+dataset_kwargs:
+  data_files:
+    train: synthetic/vegetable-vehicle_body-instrument_500.json
+output_type: multiple_choice
+description: "Below is a list of various sequences. Your task is to classify each sequence. Use the examples provided to understand how to classify each sequence correctly.\n\n"
+doc_to_text: "{{text}}:"
+doc_to_target: label
+doc_to_choice: ['Foo', 'Bar']
+target_delimiter: ""
+validation_split: train
+fewshot_split: train
+fewshot_config:
+  sampler: synthetic
+  seed: 42
+metric_list:
+  - metric: acc
+metadata:
+  version: 0.0

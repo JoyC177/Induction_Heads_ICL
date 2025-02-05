@@ -1,0 +1,20 @@
+group:
+  - super-glue-lm-eval-v1
+task: sglue_rte_instruct_PH
+dataset_path: super_glue
+dataset_name: rte
+output_type: multiple_choice
+training_split: train
+validation_split: validation
+description: "You are given a premise and a hypothesis. Given the premise, tell me if the hypothesis is correct.\n\n"
+doc_to_text: "Premise: {{premise}}\nHypothesis: {{hypothesis}}\n\nAnswer:"
+doc_to_target: !function utils.get_target_from_label
+doc_to_choice: ['Yes', 'No']
+fewshot_split: train
+fewshot_config:
+  sampler: balanced
+  seed: 42
+metric_list:
+  - metric: acc
+metadata:
+  version: 0.0

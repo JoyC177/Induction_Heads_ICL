@@ -1,0 +1,14 @@
+group: recursion_seeds
+task:
+  - task: recursion
+    fewshot_config:
+      sampler: balanced
+      seed: 42
+  - task: recursion
+    fewshot_config:
+      sampler: balanced
+      seed: 43
+  - task: recursion
+    fewshot_config:
+      sampler: balanced
+      seed: 44

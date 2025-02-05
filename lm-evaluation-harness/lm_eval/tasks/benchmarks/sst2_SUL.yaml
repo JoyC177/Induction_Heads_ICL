@@ -1,0 +1,15 @@
+group: sst2_SUL_seeds
+task:
+  - task: sst2_instruct_labels_SUL
+    fewshot_config:
+      sampler: balanced
+      seed: 42
+  - task: sst2_instruct_labels_SUL
+    fewshot_config:
+      sampler: balanced
+      seed: 43
+  - task: sst2_instruct_labels_SUL
+    fewshot_config:
+      sampler: balanced
+      seed: 44
+

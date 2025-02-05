@@ -1,0 +1,20 @@
+group:
+  - super-glue-lm-eval-v1
+task: wic_instruct
+dataset_path: super_glue
+dataset_name: wic
+output_type: multiple_choice
+training_split: train
+validation_split: validation
+description: "You are given two sentences and a word. Tell me whether the word has the same meaning in both sentences.\n\n"
+doc_to_text: "Word: {{sentence1[start1:end1]}}\nSentence 1: {{sentence1}}\nSentence 2: {{sentence2}}\n\nAnswer:"
+doc_to_target: label
+doc_to_choice: ['No', 'Yes']
+fewshot_split: train
+fewshot_config:
+  sampler: balanced
+  seed: 42
+metric_list:
+  - metric: acc
+metadata:
+  version: 1.0

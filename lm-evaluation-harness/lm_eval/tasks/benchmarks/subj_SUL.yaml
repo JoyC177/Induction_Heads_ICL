@@ -1,0 +1,15 @@
+group: subj_instruct_SUL_seeds
+task:
+  - task: subj_instruct_SUL
+    fewshot_config:
+      sampler: balanced
+      seed: 42
+  - task: subj_instruct_SUL
+    fewshot_config:
+      sampler: balanced
+      seed: 43
+  - task: subj_instruct_SUL
+    fewshot_config:
+      sampler: balanced
+      seed: 44
+

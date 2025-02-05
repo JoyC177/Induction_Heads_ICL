@@ -1,0 +1,15 @@
+group: boolq_seeds
+task:
+  - task: boolq_instruct
+    fewshot_config:
+      sampler: balanced
+      seed: 42
+  - task: boolq_instruct
+    fewshot_config:
+      sampler: balanced
+      seed: 43
+  - task: boolq_instruct
+    fewshot_config:
+      sampler: balanced
+      seed: 44
+

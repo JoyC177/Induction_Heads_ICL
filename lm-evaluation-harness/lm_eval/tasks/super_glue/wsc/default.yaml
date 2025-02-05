@@ -1,0 +1,20 @@
+group:
+  - super-glue-lm-eval-v1
+task: wsc_instruct
+dataset_path: super_glue
+dataset_name: wsc.fixed
+output_type: multiple_choice
+training_split: train
+validation_split: validation
+description: "You are given a sentence, a prounoun and a noun. Tell me whether the specified pronoun and the noun phrase refer to the same entity in the sentence.\n\n"
+doc_to_text: "Sentence: {{text}}\nPronoun: {{span2_text}}\nNoun: {{span1_text}}\n\nAnswer:"
+doc_to_target: label
+doc_to_choice: ['No', 'Yes']
+fewshot_split: train
+fewshot_config:
+  sampler: balanced
+  seed: 42
+metric_list:
+  - metric: acc
+metadata:
+  version: 1.0

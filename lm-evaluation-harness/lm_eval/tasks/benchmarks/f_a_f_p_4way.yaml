@@ -1,0 +1,14 @@
+group: f_a_f_p_4way_seeds
+task:
+  - task: f_a_f_p_4way
+    fewshot_config:
+      sampler: synthetic
+      seed: 42
+  - task: f_a_f_p_4way
+    fewshot_config:
+      sampler: synthetic
+      seed: 43
+  - task: f_a_f_p_4way
+    fewshot_config:
+      sampler: synthetic
+      seed: 44

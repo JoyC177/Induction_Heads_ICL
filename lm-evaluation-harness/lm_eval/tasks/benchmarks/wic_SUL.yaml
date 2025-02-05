@@ -1,0 +1,15 @@
+group: wic_instruct_seeds_SUL
+task:
+  - task: wic_instruct_SUL
+    fewshot_config:
+      sampler: balanced
+      seed: 42
+  - task: wic_instruct_SUL
+    fewshot_config:
+      sampler: balanced
+      seed: 43
+  - task: wic_instruct_SUL
+    fewshot_config:
+      sampler: balanced
+      seed: 44
+

@@ -1,0 +1,17 @@
+task: subj_instruct
+dataset_path: SetFit/subj
+output_type: multiple_choice
+training_split: train
+validation_split: test
+description: "Does the input contain personal opinions, feelings, or beliefs?\n\n"
+doc_to_text: "Input: {{text}}\n\nOutput:"
+doc_to_target: !function utils.get_target_from_label
+doc_to_choice: ['Yes', 'No']
+fewshot_split: train
+fewshot_config:
+  sampler: balanced
+  seed: 42
+metric_list:
+  - metric: acc
+metadata:
+  version: 0.0
